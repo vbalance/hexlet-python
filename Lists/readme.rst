@@ -329,8 +329,7 @@ Python: Списки
 
 Реализуйте функцию snail_path(), которая принимает на вход матрицу и возвращает список элементов матрицы по порядку следования от левого верхнего элемента по часовой стрелке к внутреннему. Движение по матрице напоминает улитку:
 
-.. image:: https://cdn2.hexlet.io/derivations/image/original/eyJpZCI6ImM0MDFhMzQ2NjA1NjE2MmNkNDJjNWZlOTNmOGJjNDA1LnBuZyIsInN0b3JhZ2UiOiJjYWNoZSJ9?signature=e8e7f130310c337bbabc461167c627c99eb00018c4c14d917864ed124da68567
-   :width: 600
+.. image:: https://cdn2.hexlet.io/store/derivatives/original/c401a3466056162cd42c5fe93f8bc405.png
    
     >>> from solution import snail_path
     >>> snail_path([[1, 2], [3, 4]])
