@@ -330,9 +330,10 @@ Python: Списки
 Реализуйте функцию snail_path(), которая принимает на вход матрицу и возвращает список элементов матрицы по порядку следования от левого верхнего элемента по часовой стрелке к внутреннему. Движение по матрице напоминает улитку:
 
 .. image:: images/image_processing20210909-26-cflyic.png
-
+  :width: 400
+  
 .. image:: images/image_processing20210909-25-jsxhas.png
-
+  :width: 400
 
     >>> from solution import snail_path
     >>> snail_path([[1, 2], [3, 4]])
