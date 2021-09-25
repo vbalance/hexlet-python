@@ -383,7 +383,7 @@ Python: Списки
 
 Для решения используйте встроенный инструмент — `Counter`_:
 
-.. _Counter: http://cnn.com/
+.. _Counter: https://docs.python.org/3/library/collections.html#collections.Counter
 
     >>>
     from solution import visualize
