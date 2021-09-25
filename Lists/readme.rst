@@ -332,7 +332,8 @@ Python: Списки
 .. image:: images/image_processing20210909-26-cflyic.png
 
 .. image:: images/image_processing20210909-25-jsxhas.png
-   
+
+
     >>> from solution import snail_path
     >>> snail_path([[1, 2], [3, 4]])
     [1, 2, 4, 3]
