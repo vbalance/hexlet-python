@@ -371,11 +371,10 @@ Python: Списки
 | Подсказка
 Описание алгоритма перемножения матриц `link#1`_.
 
-.. _link#1: https://docs.python.org/3/library/collections.html#collections.Counter
-
+.. _link#1: https://www.math10.com/ru/vysshaya-matematika/matrix/umnozhenie-matric.html
 Демонстрация операции перемножения матриц `link#2`_.
 
-.. _link#2: https://docs.python.org/3/library/collections.html#collections.Counter
+.. _link#2: http://matrixmultiplication.xyz/
 
 17 - Копилка (visualize.py)
 ---------------------------
