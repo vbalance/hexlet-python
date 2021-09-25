@@ -331,7 +331,9 @@ Python: Списки
 
 .. image:: images/image_processing20210909-26-cflyic.png
   :width: 400
+  
 | some text
+
 .. image:: images/image_processing20210909-25-jsxhas.png
   :width: 400
 
